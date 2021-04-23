@@ -14,7 +14,7 @@ The connection to the DB is made using PHP scripts stored on a cloud service and
 The game itself is programmed using C# 
 
 # Authors
-This videogame was made by @BeanIRL, @A01367213, @ElMike1712, and @v-franco
+This videogame was made by [@BeanIRL](https://github.com/BeanIRL), [@A01367213](https://github.com/A01367213), [@ElMike1712](https://github.com/ElMike1712), and @v-franco
 
 # Notes
 The first repo containing this game can be found [here](https://github.com/BeanIRL/RanitaWholesome).  
